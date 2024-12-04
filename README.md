@@ -30,6 +30,12 @@
 <div align="left">
   <img src="https://github.com/domosedochka/Laba4/blob/main/Screenshot_2024-12-03-00-34-46-813_com.miui.videoplayer.jpg" width="200" />
 </div>
+   При отсутствии интернет-подключения приложение отображает уведомление об запуске в автономном режиме.
+<div align="left">
+  <img src="https://github.com/domosedochka/Laba4/blob/main/Screenshot_2024_12_04_13_02_42_903_com_example_laboratornaya4.jpg" width="200" />
+</div>
+
+
 
 # Как запустить
 1. Загрузка или клонирование репозитория:
